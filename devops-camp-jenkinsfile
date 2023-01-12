@@ -1,3 +1,4 @@
+// Testing changes to application to ensure that both app and db run
 pipeline {
     agent {
         label 'jenkins-agent'
